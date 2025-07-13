@@ -9,9 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Niks2801&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niks2801&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niks2801&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Niks2801&icon=1&color=9)](https://visitcount.itsvg.in)
 
